@@ -1,0 +1,4 @@
+# OBJWpfShow
+revit模型导出成为obj，再导入到WPF里面来显示
+本项目代码实现WPF加载OBJ文件
+revit模型导出成为obj由另一个项目实现
